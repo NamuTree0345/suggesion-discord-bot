@@ -1,7 +1,8 @@
 import discord
 
 # 정보
-# 개발자: 마른생선(redwikitv@gmail.com 또는 johanbag290@naver.com)
+# 이슈제보: https://github.com/NamuTree0345/suggesion-discord-bot/issues
+# 개발자: 마른생선(redwikitv@gmail.com 또는 johanbag290@naver.com 또는 디스코드 ! DriedFish#4658)
 # 
 # 절대로 소스를 바꾸지 마세요!
 # 
